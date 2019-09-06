@@ -19,4 +19,8 @@ public class MainMethods {
 	public static void paul() {
 		System.out.println("Can you see me NOW?!!!");
 	}
+	
+	public static void htin() {
+		System.out.println("Hi! This is Htin!");
+	}
 }
