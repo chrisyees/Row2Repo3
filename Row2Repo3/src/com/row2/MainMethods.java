@@ -22,5 +22,9 @@ public class MainMethods {
 	
 	public static void htin() {
 		System.out.println("Hi! This is Htin!");
+  }
+    //byKarol
+	public static void karol() {
+		System.out.println("Karol");
 	}
 }
