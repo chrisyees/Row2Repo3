@@ -19,4 +19,9 @@ public class MainMethods {
 	public static void paul() {
 		System.out.println("Can you see me NOW?!!!");
 	}
+	
+	//byKarol
+	public static void karol() {
+		System.out.println("Karol");
+	}
 }
