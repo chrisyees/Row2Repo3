@@ -29,7 +29,15 @@ public class MainMethods {
 	public static void karol() {
 		System.out.println("Karol");
 	}
+
+	
+	public static void yumeng() {
+		System.out.println("meow..");
+	}
+
+
   	public static void jason() {
 		System.out.println("jasonator tun tun");
 	}
+
 }
