@@ -20,7 +20,10 @@ public class MainMethods {
 		System.out.println("Can you see me NOW?!!!");
 	}
 	
-	//byKarol
+	public static void htin() {
+		System.out.println("Hi! This is Htin!");
+  }
+    //byKarol
 	public static void karol() {
 		System.out.println("Karol");
 	}
