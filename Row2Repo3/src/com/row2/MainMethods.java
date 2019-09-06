@@ -8,7 +8,10 @@ public class MainMethods {
 		
 		// by Paul W
 		paul();
-    		jason();
+    	jason();
+    	karol();
+    	yumeng();
+    	htin();
 
 	}
 	
