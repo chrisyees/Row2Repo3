@@ -11,4 +11,8 @@ public class MainMethods {
 	{
 		System.out.println("Super Juicy");
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("This is the main method --from Yumeng");
+	}
 }
