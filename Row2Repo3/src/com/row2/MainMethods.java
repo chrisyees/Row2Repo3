@@ -5,7 +5,11 @@ public class MainMethods {
 	public static void main(String[] args)
 	{
 		chris();
-		jason();
+		
+		// by Paul W
+		paul();
+    		jason();
+
 	}
 	
 	public static void chris()
@@ -13,7 +17,19 @@ public class MainMethods {
 		System.out.println("Super Juicy");
 	}
 	
-	public static void jason() {
+	// by Paul W
+	public static void paul() {
+		System.out.println("Can you see me NOW?!!!");
+	}
+	
+	public static void htin() {
+		System.out.println("Hi! This is Htin!");
+  }
+    //byKarol
+	public static void karol() {
+		System.out.println("Karol");
+	}
+  	public static void jason() {
 		System.out.println("jasonator tun tun");
 	}
 }
